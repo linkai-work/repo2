@@ -12,5 +12,6 @@ public class Demo1{
         System.out.println(s3.  equals(s4));  //true
         System.out.println(232);
         System.out.println(12);
+        System.out.println(1232131);
     }
 }
